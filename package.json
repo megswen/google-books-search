@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/megswen/google-books-search.git"
   },
+  "proxy": "http://localhost:3000",
   "author": "",
   "license": "ISC",
   "bugs": {
